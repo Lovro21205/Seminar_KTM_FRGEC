@@ -1,0 +1,12 @@
+../Core/Src/ssd1306.c:32:13:I2C_Soft_Delay	2
+../Core/Src/ssd1306.c:38:13:I2C_Soft_Init	1
+../Core/Src/ssd1306.c:46:13:I2C_Soft_Start	1
+../Core/Src/ssd1306.c:58:13:I2C_Soft_Stop	1
+../Core/Src/ssd1306.c:69:16:I2C_Soft_Write	3
+../Core/Src/ssd1306.c:97:13:SSD1306_WriteCommand	1
+../Core/Src/ssd1306.c:107:6:SSD1306_Init	1
+../Core/Src/ssd1306.c:145:6:SSD1306_Fill	2
+../Core/Src/ssd1306.c:151:6:SSD1306_Clear	1
+../Core/Src/ssd1306.c:157:6:SSD1306_DrawBigDigit	8
+../Core/Src/ssd1306.c:178:6:SSD1306_DrawSmallG	7
+../Core/Src/ssd1306.c:197:6:SSD1306_UpdateScreen	2

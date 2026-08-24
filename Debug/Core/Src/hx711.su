@@ -1,0 +1,5 @@
+../Core/Src/hx711.c:6:6:HX711_Init	8	static
+../Core/Src/hx711.c:14:9:HX711_Read	32	static
+../Core/Src/hx711.c:49:9:HX711_ReadAverage	24	static
+../Core/Src/hx711.c:61:7:HX711_GetWeight	24	static
+../Core/Src/hx711.c:81:6:HX711_Tare	8	static
